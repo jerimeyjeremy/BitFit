@@ -43,7 +43,5 @@ class InsertActivity : AppCompatActivity() {
             }
             finish()
         }
-
-
     }
 }
