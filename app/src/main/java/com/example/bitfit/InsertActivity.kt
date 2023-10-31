@@ -45,39 +45,5 @@ class InsertActivity : AppCompatActivity() {
         }
 
 
-       // val food = intent.getSerializableExtra(ARTICLE_EXTRA) as DisplayFit
-
-      //  foodTextView.text = food.food
-       // caloriesTextView.text = food.calories.toString()
-
-
-       // foodList : MutableList<DisplayFit> = ArrayList()
-
-       // fun addFood(food: String, calories: Editable?) {
-        //  foodList.add(DisplayFit(food, calories))
-       // }
-
-       // fun getFood(): MutableList<DisplayFit> {
-       //     return foodList
-       // }
-
-//        val foodsRV = findViewById<RecyclerView>(R.id.articles) as RecyclerView
-
-//        foods = getFood()
-//        val adapter = FitAdapter(foods)
-//        foodsRV.adapter = adapter
-//        foodsRV.layoutManager = LinearLayoutManager(this)
-
-       // addFood.setOnClickListener {
-       //     var foodName : String = foodEdit.text.toString()
-        //    var caloriesName : Editable? = caloriesEdit.text
-
-       //     var newFood = addFood(foodName,caloriesName)
-        //    foods = getFood()
- //           adapter.notifyDataSetChanged()
-
-         //   val intent = Intent(this, MainActivity::class.java).apply{}
-         //   startActivity(intent)
-       // }
     }
 }
